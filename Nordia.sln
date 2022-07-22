@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nordia", "Nordia\Nordia.csproj", "{E18487E7-DACE-4654-BBEC-26FE431F626F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nordia.TEST", "Nordia.TEST\Nordia.TEST.csproj", "{A21EB508-E3BE-4724-8F35-D9AEB6BAB2E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E18487E7-DACE-4654-BBEC-26FE431F626F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18487E7-DACE-4654-BBEC-26FE431F626F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18487E7-DACE-4654-BBEC-26FE431F626F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18487E7-DACE-4654-BBEC-26FE431F626F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21EB508-E3BE-4724-8F35-D9AEB6BAB2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21EB508-E3BE-4724-8F35-D9AEB6BAB2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21EB508-E3BE-4724-8F35-D9AEB6BAB2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21EB508-E3BE-4724-8F35-D9AEB6BAB2E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FC1164C-35B8-4AA8-AAB2-1F4E74D98422}
+	EndGlobalSection
+EndGlobal
